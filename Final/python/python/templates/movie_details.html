@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ cartoon.title }} - Movie Details</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body class="container mt-5">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="{{ cartoon.poster }}" alt="{{ cartoon.title }} Poster" class="img-fluid">
+        </div>
+        <div class="col-md-8">
+            <h1>{{ cartoon.title }}</h1>
+            <p><strong>Год выпуска:</strong> {{ cartoon.release_year }}</p>
+            <p><strong>Жанр:</strong> {{ cartoon.genre }}</p>
+            <p><strong>Сюжет:</strong> {{ cartoon.plot }}</p>
+            <a href="{{ url_for('index') }}" class="btn btn-info btn-back">Back to List</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+/* static/styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.btn-back {
+    margin-top: 20px;
+}

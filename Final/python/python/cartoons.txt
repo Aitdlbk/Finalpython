@@ -1,0 +1,8 @@
+Title	Release Year	Genre	Plot
+Moana	2016	Animation, Adventure, Comedy	In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Zootopia	2016	Animation, Adventure, Comedy	In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.
+Tom and Jerry	1965	Animation, Comedy, Family	A weekly Saturday (later Sunday) Morning repackaged compilation with new wraparounds featuring two Tom and Jerry cartoons sandwiching other MGM animated theatrical shorts.
+Shrek	2001	Animation, Adventure, Comedy	A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+Cars	2006	Animation, Adventure, Comedy	On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn't everything in life.
+Wonka	2023	Adventure, Comedy, Family	With dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers.
+Hulk	2003	Action, Sci-Fi	Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.
